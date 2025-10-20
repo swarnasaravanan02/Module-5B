@@ -17,6 +17,7 @@ To write a Python program using Pandas to **join two DataFrames along rows** (ro
 ---
 
 ## 💻 Program
+```
 import pandas as pd
 
 student_data1 = pd.DataFrame(eval(input()))
@@ -38,6 +39,7 @@ result_data = pd.concat([student_data1,student_data2], axis=0)
 print("Join the said two dataframes along rows:")
 
 print(result_data)
+```
 
 ## Output
 
