@@ -32,4 +32,4 @@ print(equal)
 <img width="1130" height="241" alt="image" src="https://github.com/user-attachments/assets/ae8495a0-7a94-45fc-9006-55aa3816a4f6" />
 
 ## Result
-Thus, the program to sort a 2D NumPy array column-wise was executed successfully.
+Thus, the program to find indices where elements in array x are greater than or equal to corresponding elements in array y was executed successfully.
